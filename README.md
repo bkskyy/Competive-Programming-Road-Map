@@ -15,3 +15,16 @@ Tài liệu và đề cương cho khoá học 2024
   - [Problem B1P202](https://lqdoj.edu.vn/problem/cppb1p202)
   - [Palindrome Number (LeetCode)](https://leetcode.com/problems/palindrome-number/description/)
   - [Problem B1P104](https://lqdoj.edu.vn/problem/cppb1p104)
+
+- **Buổi 02 (10.02): C++ cơ bản**
+  - https://lqdoj.edu.vn/problem/cppb1p312
+  - https://lqdoj.edu.vn/problem/cppb1p337
+  - https://lqdoj.edu.vn/problem/cppb1p344
+  - https://lqdoj.edu.vn/problem/cppb1p343
+  - https://lqdoj.edu.vn/problem/cdl3p5
+  - https://lqdoj.edu.vn/problem/cppb1p314
+  - https://lqdoj.edu.vn/problem/cdl3p4
+  - https://lqdoj.edu.vn/problem/scrcb02
+  - https://lqdoj.edu.vn/problem/cppb1p213
+  - https://lqdoj.edu.vn/problem/hsg9daklak2024b1
+  - https://lqdoj.edu.vn/problem/tronmang
