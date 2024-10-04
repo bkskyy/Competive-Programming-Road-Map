@@ -4,7 +4,7 @@ Tài liệu và đề cương cho khoá học 2024
 
 # Kế hoạch
 
-- **Buổi 01 (09.30): C++ cơ bản**
+- **Buổi 01 (09.30): C++ cơ bản** (*Biến, cú pháp, kiểu dữ liệu, Loop, if else, cin, cout, Các toán tử cơ bản*)
   - [Hello World Problem](https://lqdoj.edu.vn/problem/helloworld)
   - [New Sqrt Problem](https://lqdoj.edu.vn/problem/newsqrt)
   - [THTL TABNIA 4](https://lqdoj.edu.vn/problem/23thtltabnia4)
@@ -16,7 +16,7 @@ Tài liệu và đề cương cho khoá học 2024
   - [Palindrome Number (LeetCode)](https://leetcode.com/problems/palindrome-number/description/)
   - [Problem B1P104](https://lqdoj.edu.vn/problem/cppb1p104)
 
-- **Buổi 02 (10.02): C++ cơ bản**
+- **Buổi 02 (10.02): C++ cơ bản** (*Hàm, tham số giá trị và tham số tham chiếu, Con trỏ, tham chiếu, Cày trâu, Array, vector*)
   - https://lqdoj.edu.vn/problem/cppb1p312
   - https://lqdoj.edu.vn/problem/cppb1p337
   - https://lqdoj.edu.vn/problem/cppb1p344
@@ -28,7 +28,7 @@ Tài liệu và đề cương cho khoá học 2024
   - https://lqdoj.edu.vn/problem/cppb1p213
   - https://lqdoj.edu.vn/problem/hsg9daklak2024b1
   - https://lqdoj.edu.vn/problem/tronmang
-- **Buổi 03 (10.04): C++ cơ bản**
+- **Buổi 03 (10.04): C++ cơ bản** (*Mảng 2 chiều, Số nguyên tố, số chính phương, Ước chung lớn nhất, String, Bảng mã ASCII*)
   - https://lqdoj.edu.vn/problem/cppb1p234
   - https://lqdoj.edu.vn/problem/bnhan
   - https://oj.vnoi.info/problem/pnumber
