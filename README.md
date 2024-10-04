@@ -28,3 +28,15 @@ Tài liệu và đề cương cho khoá học 2024
   - https://lqdoj.edu.vn/problem/cppb1p213
   - https://lqdoj.edu.vn/problem/hsg9daklak2024b1
   - https://lqdoj.edu.vn/problem/tronmang
+- **Buổi 03 (10.04): C++ cơ bản**
+  - https://lqdoj.edu.vn/problem/cppb1p234
+  - https://lqdoj.edu.vn/problem/bnhan
+  - https://oj.vnoi.info/problem/pnumber
+  - https://lqdoj.edu.vn/problem/findvika
+  - https://lqdoj.edu.vn/problem/cses1069
+  - https://lqdoj.edu.vn/problem/mcd
+  - https://lqdoj.edu.vn/problem/cdl4p6
+  - https://lqdoj.edu.vn/problem/vowel
+  - https://lqdoj.edu.vn/problem/tbcongxau
+  - https://lqdoj.edu.vn/problem/cntsum
+  - https://lqdoj.edu.vn/problem/thtkvmtbc1
