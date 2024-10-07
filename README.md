@@ -40,3 +40,8 @@ Tài liệu và đề cương cho khoá học 2024
   - https://lqdoj.edu.vn/problem/tbcongxau
   - https://lqdoj.edu.vn/problem/cntsum
   - https://lqdoj.edu.vn/problem/thtkvmtbc1
+- **Buổi 04 (10.07): Thuật toán cơ bản** (*Phân tích độ phức tạp thuật toán, Thuật toán tìm kiếm nhị phân*)
+  - https://lqdoj.edu.vn/problem/tknp02
+  - https://lqdoj.edu.vn/problem/tknp03
+  - https://oj.vnoi.info/problem/c11cave
+  - https://oj.vnoi.info/problem/power
