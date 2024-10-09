@@ -45,3 +45,10 @@ Tài liệu và đề cương cho khoá học 2024
   - https://lqdoj.edu.vn/problem/tknp03
   - https://oj.vnoi.info/problem/c11cave
   - https://oj.vnoi.info/problem/power
+- **Buổi 05 (10.07): Thuật toán cơ bản** (*Con trỏ, vector nâng cao, biến global*)
+  - https://leetcode.com/problems/rearrange-array-elements-by-sign/description/https://leetcode.com/problems/find-and-replace-pattern/description/
+  - https://leetcode.com/problems/concatenation-of-array/description/
+  - https://leetcode.com/problems/two-sum/
+  - https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=array
+  - https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
+  - https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=array 
