@@ -45,7 +45,7 @@ Tài liệu và đề cương cho khoá học 2024
   - https://lqdoj.edu.vn/problem/tknp03
   - https://oj.vnoi.info/problem/c11cave
   - https://oj.vnoi.info/problem/power
-- **Buổi 05 (10.07): Thuật toán cơ bản** (*Con trỏ, vector nâng cao, biến global*)
+- **Buổi 05 (10.09): Thuật toán cơ bản** (*Con trỏ, vector nâng cao, biến global*)
   - https://leetcode.com/problems/rearrange-array-elements-by-sign/description/https://leetcode.com/problems/find-and-replace-pattern/description/
   - https://leetcode.com/problems/concatenation-of-array/description/
   - https://leetcode.com/problems/two-sum/
