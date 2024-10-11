@@ -51,4 +51,14 @@ Tài liệu và đề cương cho khoá học 2024
   - https://leetcode.com/problems/two-sum/
   - https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=array
   - https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
-  - https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=array 
+  - https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=array
+- **Buổi 06 (10.11): Thuật toán trung bình** (*Con trỏ (p2), vector, sorting, greedy*)
+  - https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+  - https://leetcode.com/problems/add-two-numbers/description/
+  - https://leetcode.com/problems/valid-perfect-square/description/
+  - https://leetcode.com/problems/split-a-string-in-balanced-strings/description/
+  - https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+  - https://leetcode.com/problems/reverse-linked-list/description/
+  - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+  - https://leetcode.com/problems/search-insert-position/description/
+  - https://leetcode.com/problems/first-bad-version/description/
