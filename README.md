@@ -62,7 +62,9 @@ Tài liệu và đề cương cho khoá học 2024
   - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
   - https://leetcode.com/problems/search-insert-position/description/
   - https://leetcode.com/problems/first-bad-version/description/
-- **Buổi 07 (10.14): Thuật toán cơ bản** (*Sàng nguyên tố, Mảng cộng dồn*)
+- **Buổi 07 (10.12): Thuật toán cơ bản** (*Chữa bài contest #1*)
+  - https://vjudge.net/contest/661023
+- **Buổi 08 (10.14): Thuật toán cơ bản** (*Sàng nguyên tố, Mảng cộng dồn*)
   - https://lqdoj.edu.vn/problem/sumseq
   - https://lqdoj.edu.vn/problem/ambatukam
   - https://lqdoj.edu.vn/problem/numstrip
