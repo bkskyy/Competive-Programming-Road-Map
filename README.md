@@ -52,7 +52,7 @@ Tài liệu và đề cương cho khoá học 2024
   - https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=array
   - https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
   - https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=array
-- **Buổi 06 (10.11): Thuật toán trung bình** (*Con trỏ (p2), vector, sorting, greedy*)
+- **Buổi 06 (10.11): Thuật toán cơ bản** (*Con trỏ (p2), vector, sorting, greedy*)
   - https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
   - https://leetcode.com/problems/add-two-numbers/description/
   - https://leetcode.com/problems/valid-perfect-square/description/
@@ -62,3 +62,13 @@ Tài liệu và đề cương cho khoá học 2024
   - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
   - https://leetcode.com/problems/search-insert-position/description/
   - https://leetcode.com/problems/first-bad-version/description/
+- **Buổi 07 (10.14): Thuật toán cơ bản** (*Sàng nguyên tố, Mảng cộng dồn*)
+  - https://lqdoj.edu.vn/problem/sumseq
+  - https://lqdoj.edu.vn/problem/ambatukam
+  - https://lqdoj.edu.vn/problem/numstrip
+  - https://lqdoj.edu.vn/problem/d13easytask
+  - https://lqdoj.edu.vn/problem/cses1646
+  - https://lqdoj.edu.vn/problem/candydiv
+  - https://lqdoj.edu.vn/problem/seqhh
+  - https://oj.vnoi.info/problem/bedao_g01_kprime
+  - https://oj.vnoi.info/problem/pnumber
