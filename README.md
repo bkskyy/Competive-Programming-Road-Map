@@ -74,3 +74,6 @@ Tài liệu và đề cương cho khoá học 2024
   - https://lqdoj.edu.vn/problem/seqhh
   - https://oj.vnoi.info/problem/bedao_g01_kprime
   - https://oj.vnoi.info/problem/pnumber
+- **Buổi 09 (10.16): Thuật toán cơ bản** (*Đệ quy*)
+  - https://leetcode.com/problems/powx-n/?envType=problem-list-v2&envId=recursion
+  - https://lqdoj.edu.vn/problem/cppb1p507
