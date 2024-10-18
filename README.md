@@ -77,3 +77,10 @@ Tài liệu và đề cương cho khoá học 2024
 - **Buổi 09 (10.16): Thuật toán cơ bản** (*Đệ quy*)
   - https://leetcode.com/problems/powx-n/?envType=problem-list-v2&envId=recursion
   - https://lqdoj.edu.vn/problem/cppb1p507
+- **Buổi 09 (10.18): Thuật toán cơ bản** (*Hashing, Queue, Stack*)
+  - https://leetcode.com/problems/reveal-cards-in-increasing-order/description/
+  - https://leetcode.com/problems/design-hashset/description/
+  - https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/
+  - https://leetcode.com/problems/reverse-prefix-of-word/
+  - https://leetcode.com/problems/design-hashmap/description/
+  - https://leetcode.com/problems/time-needed-to-buy-tickets/description/
