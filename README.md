@@ -94,4 +94,15 @@ Tài liệu và đề cương cho khoá học 2024
   - https://lqdoj.edu.vn/problem/candydiv
   - https://lqdoj.edu.vn/problem/subseq01
   - https://lqdoj.edu.vn/problem/seqhh
+- **Buổi 12 (10.23): Training** (*String*)
+  - https://lqdoj.edu.vn/problem/cppb1p402
+  - https://lqdoj.edu.vn/problem/palinstr
+  - https://lqdoj.edu.vn/problem/csln
+  - https://lqdoj.edu.vn/problem/evenpal75
+  - https://lqdoj.edu.vn/problem/tbcongxau
+  - https://lqdoj.edu.vn/problem/keyboard
+  - https://lqdoj.edu.vn/problem/letter
+  - https://lqdoj.edu.vn/problem/div2borangevol2
+  - https://lqdoj.edu.vn/problem/gheso
+
 
