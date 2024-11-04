@@ -104,5 +104,12 @@ Tài liệu và đề cương cho khoá học 2024
   - https://lqdoj.edu.vn/problem/letter
   - https://lqdoj.edu.vn/problem/div2borangevol2
   - https://lqdoj.edu.vn/problem/gheso
+- **Buổi 13 (11.04): Đồ thị** (*Graph*)
+  - https://leetcode.com/problems/number-of-islands/description/
+  - https://leetcode.com/problems/word-ladder/description/
+  - https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
+  - https://leetcode.com/problems/word-search/description/
+  - https://leetcode.com/problems/symmetric-tree/description/
+  - https://leetcode.com/problems/clone-graph/description/
 
 
