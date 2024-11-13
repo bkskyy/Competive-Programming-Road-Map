@@ -111,5 +111,5 @@ Tài liệu và đề cương cho khoá học 2024
   - https://leetcode.com/problems/word-search/description/
   - https://leetcode.com/problems/symmetric-tree/description/
   - https://leetcode.com/problems/clone-graph/description/
-
-
+- **Buổi 19 (11.13): Segment Tree** (*CTDL*)
+  - https://oj.vnoi.info/contest/segtree/all
